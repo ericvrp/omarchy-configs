@@ -1,5 +1,5 @@
 ```
-cd ~/.local
+cd ~/.config
 mv hypr hypr.bak
 ln -s <this folder>/omarchy-configs/hypr hypr
 ```
